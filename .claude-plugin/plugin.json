@@ -1,7 +1,7 @@
 {
   "name": "gridhealth",
   "displayName": "GridHealth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Research GridHealth’s public healthcare AI catalog, published assessments and evidence, and draft monitoring plans.",
   "author": {
     "name": "Grid Health Inc.",
