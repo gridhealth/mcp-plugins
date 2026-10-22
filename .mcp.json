@@ -1,0 +1,6 @@
+{
+  "Grid": {
+    "type": "http",
+    "url": "https://mcp.gridhealth.io/mcp"
+  }
+}

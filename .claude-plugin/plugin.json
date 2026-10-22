@@ -1,0 +1,14 @@
+{
+  "name": "gridhealth",
+  "displayName": "GridHealth",
+  "version": "1.0.0",
+  "description": "Research GridHealth’s public healthcare AI catalog, published assessments and evidence, and draft monitoring plans.",
+  "author": {
+    "name": "Grid Health Inc.",
+    "email": "support@gridhealth.io",
+    "url": "https://www.gridhealth.io"
+  },
+  "homepage": "https://www.gridhealth.io",
+  "license": "MIT",
+  "mcpServers": "./.mcp.json"
+}
